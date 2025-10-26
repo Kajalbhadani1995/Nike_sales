@@ -6,6 +6,7 @@ The motive behind creating this dashboard is to solve the business problem of ni
 To find the solutions of these problems, the dashboard leverages KPIs like Total Orders, Total Revenue, Total Profit and Total Rating. It uses visualizations like Metrix tables (which gives most of the insights) Profit by category chart, impact on profit by discount e.t.c, to deliver actionable insights and support data-driven decision making. 
 
 Business Problem: Nike Sales & Profitability analysis. 
+
 Effective sales and inventory analysis is critical for Nike to maintain its position as a global market leader in sportswear and footwear. The company must optimize product pricing, regional strategy, and customer targeting to maximize revenue, minimize holding costs, and drive profitability.
 
 The 🎯 goal of this dashboard project is to: 
