@@ -16,3 +16,5 @@ The 🎯 goal of this dashboard project is to:
 4. Examine how discounts impact profit margins and total revenue.
 5. Measure performance trends by channel, segment, or country to recommend sales strategy.
 6. Enable quick visibility into revenue growth, profit change, and unit sales trends using KPI indicators and YoY comparisons.
+
+Dashboard: 
