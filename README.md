@@ -8,7 +8,7 @@ To find the solutions of these problems, the dashboard leverages KPIs like Total
 Business Problem: Nike Sales & Profitability analysis. 
 Effective sales and inventory analysis is critical for Nike to maintain its position as a global market leader in sportswear and footwear. The company must optimize product pricing, regional strategy, and customer targeting to maximize revenue, minimize holding costs, and drive profitability.
 
-The 🎯  goal of this dashboard project is to: 
+The 🎯 goal of this dashboard project is to: 
 1. Identify underperforming product categories, styles, or regions that require promotional or pricing adjustments.
 2. Analyze the effect of customer demographics (age, gender, country) on product sales performance.
 3. Determine top-selling and most profitable products across time periods (monthly, yearly).
