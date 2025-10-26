@@ -1,6 +1,7 @@
 # Nike Dashboard
 
 INTRODUCTION
+
 The motive behind creating this dashboard is to solve the business problem of nike. The company wants to know the overall sales performance, which products or categories are having low amount of profit even after offering significant discounts also which products or categories require Promotional or pricing adjustments. 
 To find the solutions of these problems, the dashboard leverages KPIs like Total Orders, Total Revenue, Total Profit and Total Rating. It uses visualizations like Metrix tables (which gives most of the insights) Profit by category chart, impact on profit by discount e.t.c, to deliver actionable insights and support data-driven decision making. 
 
