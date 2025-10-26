@@ -17,4 +17,4 @@ The 🎯 goal of this dashboard project is to:
 5. Measure performance trends by channel, segment, or country to recommend sales strategy.
 6. Enable quick visibility into revenue growth, profit change, and unit sales trends using KPI indicators and YoY comparisons.
 
-Dashboard: 
+Dashboard: https://github.com/Kajalbhadani1995/Nike_sales/blob/main/Nike_Sales_Dashboard.png
