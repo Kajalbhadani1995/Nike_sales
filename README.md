@@ -27,13 +27,10 @@ INSIGHT & FINDING
 
 Conclusion
 
-The dashboard provides clear visibility into Nike’s sales dynamics, enabling the company to:
-
-Focus on revitalizing the Shoes category, particularly Pegasus, through targeted marketing or pricing adjustments.
-
-Leverage the high engagement from the 18–30 demographic for product launches or campaigns.
-
-Continue optimizing discounts since they are currently not severely harming profits.
+1. The dashboard provides clear visibility into Nike’s sales dynamics, enabling the company to:
+2. Focus on revitalizing the Shoes category, particularly Pegasus, through targeted marketing or pricing adjustments.
+3. Leverage the high engagement from the 18–30 demographic for product launches or campaigns.
+4. Continue optimizing discounts since they are currently not severely harming profits.
 
 
 This data-driven approach empowers Nike to make informed business decisions that enhance profitability, brand performance, and customer satisfaction.
