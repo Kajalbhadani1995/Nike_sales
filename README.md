@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-The motive behind creating this dashboard is to solve the business problem of nike. The company wants to know the overall sales performance, which products or categories are having low amount of profit even after offering significant discounts also which products or categories require Promotional or pricing adjustments. 
+The motive behind creating this dashboard is to solve the business problem of Nike. The company wants to know the overall sales performance, which products or categories are having low amount of profit even after offering significant discounts also which products or categories require Promotional or pricing adjustments. 
 To find the solutions of these problems, the dashboard leverages KPIs like Total Orders, Total Revenue, Total Profit and Total Rating. It uses visualizations like Metrix tables (which gives most of the insights) Profit by category chart, impact on profit by discount e.t.c, to deliver actionable insights and support data-driven decision making. 
 
 Business Problem: Nike Sales & Profitability analysis. 
@@ -19,7 +19,7 @@ The 🎯 goal of this dashboard project is to:
 
 INSIGHT & FINDING
 
-1. Shoes category has low sales among other categories and if we talk about the product in the category. Pegasus is the lowest product than all 
+1. Shoes categories have low sales among other categories and if we talk about the product in the category. Pegasus is the lowest product than all 
 2. Between 18 to 30 age category they have the highest performance and if we see the Gender wise sales then male has contributed more 
 3.  Air max has sold 14823 unite_sold generating over $11,34,866.37 after giving 43.06%
 4. The highest order we got in 2023 that is 1.658k more than the last. It has increased by last year is 116
